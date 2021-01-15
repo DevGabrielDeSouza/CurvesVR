@@ -224,10 +224,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 338015221}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7c146c41ef9e647b184f3a82f83f10f7, type: 3}
+  m_Script: {fileID: 11500000, guid: 33aabe1a2dec93349b06e6e5dc51bc06, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   pathCreator: {fileID: 2003027837}
+  endOfPathInstruction: 0
   speed: 5
 --- !u!1 &1687258581
 GameObject:
